@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title></title>
+</head>
+<body>
+
+
+<style>
+  body {
+  background: linear-gradient(to bottom, #cceeff,rgb(0, 109, 218),rgb(0, 64, 184)),rgb(0, 7, 112);
+  background-size: cover;
+  background-position: center;
+  }
+</style>
+    
+ <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img/bbgg1.jpg" alt="..." width="100%">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+  </div>
+
+  
+  <table align="center" bgcolor="grey">
+        <tr bgcolor="white" align="left">
+            <th width="1000"><h1 style="color:"align="left"><h2 style="color:"align="left">Grammar หรือไวยากรณ์ภาษาอังกฤษ เป็นเรื่องพื้นฐานในการเรียนภาษาอังกฤษ หลายคนอาจเคยได้ยินว่า พูดภาษาอังกฤษไปเถอะไม่ต้องสนแกรมม่า ขอแค่สื่อสารแล้วอีกฝ่ายเข้าใจก็พอ นั่นอาจจะใช่แต่ไม่ถูก เพราะหากสื่อสารได้อย่างถูกต้องตามหลักไวยากรณ์ยิ่งสร้างความน่าเชื่อถือ และที่สำคัญแกรมม่ามีความจำเป็นอย่างยิ่งกับการทดสอบเพื่อวัดระดับความรู้ทางภาษา ดังนั้นจึงได้รวบรวมแกรมม่ามาอย่างครอบคลุมทุกหัวข้อให้ได้นำไปศึกษาและทบทวนกันครับ
+  </h2><br>
+  
+  <h2 style="color:#"align="left">หนึ่งสิ่งสำคัญในการเรียนรู้ภาษาอังกฤษคือ แกรมม่า (Grammar) หรือไวยากรณ์ ที่มีเยอะจนทำให้ผู้เรียนสับสน ดังนั้นจึงขอสรุปออกมาเป็น 18 กฎเหล็กในแกรมม่าภาษาอังกฤษ ดังนี้ <br><br></h2>
+    <h2 align="left">18 กฎเหล็กในแกรมม่าภาษาอังกฤษ</h2>
+    <h3 style="color:#"align="left">กฎข้อที่ 1 : ประโยคที่สมบูรณ์ต้องประกอบไปด้วยคำนาม (Noun) และคำกริยา (Verb)</h3>
+    <h3 style="color:#343a40" align="left">Ex. The sun rises.<br>(พระอาทิตย์ขึ้น)<br>The sun (พระอาทิตย์) เป็นคำนาม<br>rises (ขึ้น) เป็นคำกริยา<br><br><br></h3>  
+    <h3 style="color:#"align="left">กฎข้อที่ 2 : ประโยคที่สมบูรณ์ต้องประกอบไปด้วยประธาน (Subject) และภาคแสดง (Predicate)</h3>
+    <h3 style="color:#343a40"align="left">Ex. He wants to help her.<br>(เขาต้องการช่วยเธอ)<br>He คือประธาน<br>wants to help her คือภาคแสดง<br><br><br></h3>
+    <h3 style="color:#" align="left">กฎข้อที่ 3 : ข้อยกเว้นจากกฎด้านบน คำกริยาสามารถอยู่หน้าประโยคได้เมื่อเป็นประโยคคำสั่ง</h3>
+    <h3 style="color:#343a40"align="left">Ex. Go away!<br>(ไปให้พ้น!)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 4 : คำคุณศัพท์ (Adjectives) จะวางไว้หน้าคำนามเพื่ออธิบายคำนามนั้น <br>หรือวางไว้หลังคำนามโดยต้องคั่นด้วยคำกริยา</h3>
+    <h3 style="color:#343a40"align="left">Ex. The cute dog comes from Japan.<br>(สุนัขน่ารักมาจากประเทศญี่ปุ่น)<br>Ex. The dog is cute.<br>(สุนัขน่ารัก)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 5 : ประธานที่มีมากกว่าหนึ่ง (Compound subject) <br>ประกอบด้วยประธานคำเดียว (Simple subjects) สองคำหรือมากกว่า</h3>
+    <h3 style="color:#343a40"align="left">Ex. Tom and John work until 7.00 h3.m. each day.<br>(ทอมกับจอห์นทำงานถึง 19.00 น. ในแต่ละวัน)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 6 : ภาคแสดงที่มีมากกว่าหนึ่ง (Compound predicate) ประกอบด้วยคำกริยาสองคำหรือมากกว่า</h3>
+    <h3 style="color:#343a40"align="left">Ex. The dog barked and bit.<br>(สุนัขเห่าและกัด)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 7 : ประโยคความรวม (Compound sentence) <br>ประกอบด้วยประธานหรือภาคแสดงที่มากกว่าหนึ่ง</h3>
+    <h3 style="color:#343a40"align="left">Ex. I walked to class, but Too ran.<br>(ฉันเดินไปเรียนแต่ตู่วิ่ง)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 8 : อนุประโยคอิสระ (Independent clause) <br>ประกอบด้วย ประธานและภาคแสดงเหมือนกับประโยคที่สมบูรณ์</h3>
+    <h3 style="color:#343a40"align="left">Ex. My mother is teacher.<br>(แม่ของฉันเป็นครู)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 9 : อนุประโยคไม่อิสระ (Dependent clause) ไม่สามารถอยู่ลำพังหรือสื่อความหมายได้สมบูรณ์ <br>จึงมักมีคำเชื่อม เช่น who, when, where, who, what, how…อยู่ข้างหน้า</h3>
+    <h3 style="color:#343a40"align="left">Ex. The man who sits next to me never spoke to me.<br>(คนที่นั่งข้างฉันไม่เคยคุยกับฉันเลย)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 10 : กรรมตรง (Direct object) คือ คำนามที่ถูกกระทำโดยคำกริยา</h3>
+    <h3 style="color:#343a40"align="left">Ex. I read newspaper.<br>(ฉันอ่านหนังสือพิมพ์)<br>**newspaper เป็นกรรม ถูกกระทำโดยกริยา read<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 11 : กรรมรอง (Indirect object) คือคำนามที่ได้รับผลทางอ้อมจากการกระทำของคำกริยา</h3>
+    <h3 style="color:#343a40"align="left">Ex. He gave flowers to his girlfriend.<br>(เขามอบดอกไม้ให้แฟนสาวของเขา)<br>**flowers คือ กรรมตรง / his girlfriend คือ กรรมรอง<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 12 : เมื่อเป็น Passive Voice (ประโยคถูกกระทำ) กรรมของกริยาจะกลายมาเป็นประธานของประโยค</h3>
+    <h3 style="color:#343a40"align="left">Ex. Lisa writes a letter.  →  A letter is written by Lisa.<br>(ลิซ่าเขียนจดหมาย  → จดหมายเขียนโดยลิซ่า)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 13 : Verb to be คือ สิ่งจำเป็นใน Passive voice</h3>
+    <h3 style="color:#343a40"align="left">Ex. A house is built by father.<br>(บ้านนี้พ่อเป็นคนสร้าง)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 14 : ประโยค Passive voice สามารถละประธานที่เป็นผู้กระทำได้</h3>
+    <h3 style="color:#343a40"align="left">Ex. The windows are closed.<br>(หน้าต่างปิดอยู่)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 15 : ใน Passive voice ประธานที่เป็นผู้กระทำจะถูกเชื่อมด้วยบุพบทวลี (Prepositional phrase) <br>**Prepositions (คำบุพบท) คือคำที่ใช้อธิบายคำถามอย่าง where, when หรือ which</h3>
+    <h3 style="color:#343a40"align="left">Ex. The bird ate the seeds which I gave him.<br>(นกกินเมล็ดพืชที่ฉันให้ไป)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 16 : บางครั้งบุพบทวลีก็คั่นด้วยเครื่องหมาย commas (,)</h3>
+    <h3 style="color:#343a40"align="left">Ex. After lunchtime, the bird ate seeds.<br>(หลังอาหารกลางวันนกก็กินเมล็ดพืช)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 17 : คำคุณศัพท์ (Adverbs) ทำหน้าที่เหมือนคำบุพบทที่ตอบคำถาม ‘How?’</h3>
+    <h3 style="color:#343a40"align="left">Ex. The dog ate foods quickly.<br>(สุนัขกินอาหารได้อย่างรวดเร็ว)<br><br><br></h3>
+    <h3 style="color:#"align="left">กฎข้อที่ 18 : ส่วนขยายประธาน (Subject compliment) จะอธิบายลักษณะของประธานในประโยค</h3>
+    <h3 style="color:#343a40"align="left">Ex. The pen is black.<br>(ปากกาเป็นสีดำ)<br><br><br></h3>
+    <h2 style="color:#"align="left">ในภาษาอังกฤษเราท่องศัพท์ รู้จัก Tense ต่าง ๆ ก็เพื่อสร้างประโยคให้ได้ ดังนั้นจึงจำเป็นอย่างยิ่งที่ต้องรู้กฎพื้นฐานของ Grammar ว่าประโยคในภาษาอังกฤษนั้นประกอบไปด้วยอะไรบ้าง ถ้าลืมเลือนกันไปแล้ว มาทบทวนกันเลยครับ</h2>
+    <h3 style="color:#"align="left">Subject = ภาคประธานของประโยค</h3>
+
+    <h3 style="color:#343a40"align="left">ภาคประธานของประโยค (Subject) คือ คน สัตว์ หรือสิ่งของ ในประโยคที่กระทำบางสิ่งบางอย่าง เช่น<br><br>He speaks English very well.<br>(เขาพูดภาษาอังกฤษเก่งมาก)<br>He คือ ประธาน<br><br><br>The dogs bark at the cat.
+    <br>(พวกสุนัขเห่าแมว)<br>The dogs คือ ประธาน<br><br><br></h3>
+    <h3 style="color:#"align="left">Predicate = ภาคแสดงของประโยค</h3>
+    <h3 style="color:#343a40"align="left">ภาคแสดงของประโยค (Predicate) คือ ส่วนของประโยคที่ประกอบด้วยการกระทำ (Verb) เช่น<br><br><br>Paula puts a lot of garlic in her food.<br>
+    (พอลล่าใส่กระเทียมจำนวนมากในอาหารของเธอ)<br>puts a lot of garlic in her food คือ ภาคแสดง<br><br><br></h3>
+    <h3 style="color:#"align="left">Object = กรรม</h3>
+    <h3 style="color:#343a40"align="left">กรรม (Object) คือ คน สัตว์ หรือสิ่งของที่ถูกกระทำจากการกระทำของประธาน เช่น<br><br><br>My father built a ramp on the sidewalk.<br>
+    (พ่อของฉันสร้างทางลาดบนทางเท้า)<br>a ramp คือ กรรม<br><br><br></h3>
+    <h3 style="color:#"align="left">Sentence = ประโยค</h3>
+    <h3 style="color:#343a40"align="left">ประโยค (Sentence) คือ กลุ่มคำที่เข้าใจความหมายทั้งหมดด้วยตัวมันเอง ประโยคจะขึ้นต้นด้วยตัวอักษรตัวพิมพ์ใหญ่เสมอ <br>และจบประโยคด้วยเครื่องหมายวรรคตอน (Punctuation mark) และประกอบด้วยภาคประธานและภาคแสดง เช่น<br><br><br>
+    The dogs bark at the cat.<br>(พวกสุนัขเห่าแมว)<br>ประธาน คือ The dogs / ภาคแสดง คือ bark at the cat.<br><br><br></h3>
+    <h3 style="color:#"align="left">Simple Sentence = ประโยคความเดียว</h3>
+    <h3 style="color:#343a40"align="left">ประโยคความเดียว (Simple Sentence) คือ ประโยคที่มีหนึ่งประธานและหนึ่งภาคแสดง เช่น<br><br><br>Jane waited for the train.<br>(เจนรอรถไฟ)<br>ประธาน คือ Jane / ภาคแสดงคือ waited for the train.
+    <br><br><br>ประโยคความเดียวสามารถมีประธานพหูพจน์และ/หรือภาคแสดงพหูพจน์ก็ได้ เช่น<br><br><br>ประธานพหูพจน์ : Mary and Sarah went to the supermarket. (แมรี่และซาร่าไปซูเปอร์มาร์เก็ต)<br>ภาคแสดงพหูพจน์ : The dog jumped and barked. (หมากระโดดและเห่า)
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Compound Sentence = ประโยคความรวม</h3>
+    <h3 style="color:#343a40"align="left">ประโยคความรวม (Simple Sentence) คือ ประโยคที่ประกอบด้วยสองหรือหลายประโยคความเดียว แล้วเชื่อมกันด้วยเครื่องหมาย comma ( , ) หรือ คำเชื่อม (Conjunction) เช่น
+    <br><br><br>I walked to class, but Toon ran.<br>(ฉันเดินไปห้องเรียน แต่ตูนวิ่ง)<br><br><br>Nida bought some new shoes, and she wore them to a party.
+    <br>(นิดาซื้อรองเท้าใหม่ และเธอก็สวมมันไปงานปาร์ตี้)<br><br><br>ข้อสังเกต : ในประโยคความรวมมักมี คำเชื่อม (Conjunction)  ดังนี้ For, And, Nor, But, Or, Yet, So (หลักการจำง่าย ๆ คือ FAN BOYS)
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Complex Sentence = ประโยคความซ้อน</h3>
+    <h3 style="color:#343a40"align="left">ประโยคความซ้อน (Complex Sentence) คือ ประโยคความเดียวสองประโยคมารวมกันเป็นประโยคเดียวด้วยคำเชื่อมสองประโยคเข้าด้วยกัน (Subordinating Conjunctions) <br>เพื่อขยายความให้สมบูรณ์ มีโครงสร้าง คือ
+    <br><br><br>Subordinating Conjunctions + Subject + Verb ~, Subject + Verb ~<br>Subject + Verb ~ + Subordinating Conjunctions + Subject + Verb
+    <br><br><br>เช่น<br>Since you were not at the meeting, we made a decision without you.<br>(เนื่องจากคุณไม่เข้าประชุม พวกเราจึงตัดสินใจโดยไม่มีคุณ)
+    <br><br><br>Tom forgot to give the teacher his homework when he came late to class.<br>(ทอมลืมส่งการบ้านคุณครูเมื่อเขามาห้องเรียนสาย)
+    <br><br><br>ข้อสังเกต : ในประโยคความซ้อนมักมีคำเชื่อมสองประโยคเข้าด้วยกัน (Subordinating Conjunctions) <br>ดังนี้ after, although, as, because, before, even though, if, since, though, unless, until, when, whenever, whereas, wherever, while
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Declarative Sentence = ประโยคบอกเล่า</h3>
+    <h3 style="color:#343a40"align="left">ประโยคบอกเล่า (Declarative Sentence) คือ ประโยคที่บอกถึงข้อคิดเห็นหรือความเป็นจริง เช่น<br><br><br>We have broccoli in the refrigerator.<br>(พวกเรามีบร็อคโคลี่ในตู้เย็น)
+    <br><br><br>To kill a mockingbird was written by Harper Lee.<br>(นิยายเรื่อง To kill a mockingbird เขียนโดย ฮาร์เปอร์ ลี)
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Imperative Sentence = ประโยคคำสั่ง</h3>
+    <h3 style="color:#343a40"align="left">ประโยคคำสั่ง (Imperative Sentence) คือ ประโยคที่ใช้ในการสั่งการ เช่น<br><br><br>Get out!<br>ออกไป!
+    <br><br><br>Mark, shut the door.<br>(มาร์ก ปิดประตูด้วย)
+    <br><br><br>Please tidy your room.<br>(กรุณาจัดห้องให้เรียบร้อย)
+    <br><br><br>ข้อสังเกต : ถ้าเป็นคำสั่งมีพลังจะใช้เครื่องหมายอัศเจรีย์ ( ! ) ถ้าเป็นคำสั่งแบบสุภาพหรือในรูปแบบให้คำแนะนำจะใช้ full stop ( . )
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Interrogative Sentence = ประโยคคำถาม</h3>
+    <h3 style="color:#343a40"align="left">ประโยคคำถาม (Interrogative Sentence) คือ ประโยคสำหรับการถามข้อมูล และจบประโยคด้วยเครื่องหมาย Question mark ( ? ) เช่น<br>What is your favorite song?<br>(เพลงโปรดของคุณคือเพลงอะไร?)
+    <br><br><br>Can I borrow your book?<br>(ฉันขอยืมหนังสือของคุณได้ไหม?)
+    <br><br><br></h3>
+    <h3 style="color:#"align="left">Paragraph = ย่อหน้า, ข้อความหรือบทความสั้น ๆ</h3>
+    <h3 style="color:#343a40"align="left">Paragraph คือ กลุ่มของประโยคซึ่งแสดงความสัมพันธ์กันกับความคิดเหมือน ๆ กัน <br>หรือใจความสำคัญของเรื่อง (ประโยคแรกของ Paragraph จะย่อหน้าเสมอ) เช่น
+    <br><br><br>My classmate is an interesting person. Her name is Sayumi Michishige. She is a student from Aoyama Gakuin University in Japan. <br>She arrived in Bangkok two years ago. She is single and lives with her best friend form Japan.
+    <br><br><br></h3><h1 style="color:#">แบบฝึกหัด</h1>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYRtwnvccgj0-bXzG3-B5sO_rSohWJS1RYaMbqx0BkiB9iXw/viewform?usp=sf_link" class="btn btn-primary">ทำแบบฝึกหัด</a>
+</table>
+
+    
+
+    <br>
+    <br>
+    <br>
+    <h3 align="right">
+          <a href="a.html">
+            <button style="font-size:30px; background-color:red; color:white; border-radius:10px">Return</button>
+          </a>
+        </h3>
+
+
+
+</body>
+</html>
